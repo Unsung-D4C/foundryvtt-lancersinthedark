@@ -13,13 +13,13 @@ $document-types: join($item-types, $actor-types);
 :root {
   --main-font-family: Helvetica, Arial, sans-serif;
 
-  --main-theme-color: #991e2a; /* I've configured calls to this to fall back on fuchsia when things go wrong */
-  --main-theme-text: #e8bcbe;
-  --secondary-theme-color: #121d21;
-  --secondary-theme-text: #ffffff;
-  --secondary-theme-highlight: #233f49;
-  --loadout-color: #777f86;
-  --ref-color: #ddc0b3;
+  --main-theme-color: #146464; /* I've configured calls to this to fall back on fuchsia when things go wrong */
+  --main-theme-text: #fff;
+  --secondary-theme-color: #293940;
+  --secondary-theme-text: #dbdbdb;
+  --secondary-theme-highlight: #218a8a;
+  --loadout-color: #263237;
+  --ref-color: #1dc2c2;
   --gms-theme-color: #991e2a;
   --ipsn-theme-color: #1662b8;
   --ssc-theme-color: #d1920a;
