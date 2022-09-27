@@ -1,8 +1,8 @@
 {
-  "name": "lancer",
-  "id": "lancer",
-  "title": "LANCER",
-  "description": "A Foundry VTT game system for <a href=\"https://massif-press.itch.io/corebook-pdf\">Lancer</a> by <a href=\"https://massif-press.itch.io/\">Massif Press</a>, a mud-and-lasers tactical mech RPG.",
+  "name": "lancers in the dark",
+  "id": "lancers_in_the_dark",
+  "title": "LANCERS IN THE DARK",
+  "description": "A Foundry VTT game system for <a href=\"https://massif-press.itch.io/corebook-pdf\">Lancer</a> by <a href=\"https://massif-press.itch.io/\">Massif Press</a>, a mud-and-lasers tactical mech RPG. Edited for use with TK's rebuild of Lancer, <a href=\"https://tinyurl.com/LancerFitD/\">Lancers in the Dark</a>.",
   "version": "1.3.1",
   "minimumCoreVersion": "9",
   "compatibleCoreVersion": "9",
